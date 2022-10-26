@@ -1,2 +1,4 @@
 # INNODEV-2K22
-A Web Development Project
+HOTEL TRANSYLVANIA
+Team Name: Web Crew
+Team Members
