@@ -5,11 +5,11 @@ Team Name: Web Crew
 
 Team Members:
         
-        1. Rishi Mishra {<RishiMishra3004>/https://github.com/RishiMishra3004}
+        1. Rishi Mishra {<RishiMishra3004/https://github.com/RishiMishra3004>}
         
-        2. Tushar Goyal {<CoderOsumaki>/https://github.com/CoderOsumaki}
+        2. Tushar Goyal {<CoderOsumaki/https://github.com/CoderOsumaki>}
         
-        3. Pavan Kumar {<Pavan73276>/https://github.com/pavan73276}       
+        3. Pavan Kumar {<Pavan73276/https://github.com/pavan73276>}       
         
 Proposed Features:
   
